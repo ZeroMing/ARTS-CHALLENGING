@@ -1,5 +1,5 @@
-# ARTS-PLANING
-记录自己参与陈皓老师发起的ARTS打卡计划的一点一滴
+# ARTS-CHALLENGING
+记录自己参与陈皓老师发起的ARTS打卡挑战的一点一滴
 
 
 ### ARTS挑战描述
